@@ -97,7 +97,7 @@ nav {
   flex-wrap: wrap;
   /* border: solid 1px red; */
   text-align: center;
-  background: url('/img/bean-bg.jpg') no-repeat center center fixed;
+  background: url('mex-web/img/bean-bg.jpg') no-repeat center center fixed;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
