@@ -126,7 +126,7 @@ background-size: cover;
 
 .land-img {
   width: 50%;
-  height: 100vh;
+  height: 78vh;
   align-items: center;
   display: flex;
   justify-content: flex-end;
@@ -140,7 +140,7 @@ background-size: cover;
 }
 .logo-text {
   width: 50%;
-  height: 100vh;
+  height: 78vh;
   display: flex;
   flex-wrap: nowrap;
   align-items: center;
@@ -166,7 +166,12 @@ background-size: cover;
   font-weight: 700;
   margin-top: 35px;
 }
-
+.landing-area .fas {
+  margin: 0 auto;
+  color: #fff;
+  font-size: 1.5em;
+  cursor: pointer;
+}
 
 
 
@@ -214,7 +219,6 @@ background-size: cover;
   word-spacing: 2px;
   line-height: 21px;
   margin-top: 35px;
-  border: solid 1px red;
   width: 500px;
   margin: 30px auto 0;
 }
