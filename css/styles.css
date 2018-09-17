@@ -106,7 +106,6 @@ background-size: cover;
 .land-social {
   width: 100%;
   color: #fff;
-  /* border: solid 1px red; */
   height: 45px;
   padding: 9px;
   text-align: right;
@@ -128,7 +127,6 @@ background-size: cover;
 .land-img {
   width: 50%;
   height: 100vh;
-  /* border: solid 1px red; */
   align-items: center;
   display: flex;
   justify-content: flex-end;
@@ -138,22 +136,17 @@ background-size: cover;
   width: 500px;
   text-align: right;
   height: 500px;
-  /* border: solid 1px purple; */
   padding: 0;
 }
 .logo-text {
   width: 50%;
   height: 100vh;
-  /* border: solid 1px red; */
   display: flex;
   flex-wrap: nowrap;
-  /* text-align: center; */
-  /* justify-content: center; */
   align-items: center;
   color: #fff;
 }
 .text-box {
-  /* border: solid 1px green; */
   padding: 7px;
   margin-top: 85px;
   margin-left: -155px;
@@ -190,7 +183,6 @@ background-size: cover;
 .about-img {
   width: 50%;
   display: inline-block;
-  /* border: solid 1px yellow; */
   text-align: center;
   padding: 10px;
 }
@@ -206,7 +198,6 @@ background-size: cover;
 
 .about-inner {
   width: 50%;
-  /* border: solid 1px cyan; */
   text-align: center;
   padding: 10px;
 }
@@ -235,7 +226,6 @@ background-size: cover;
 /* Menu Squares */
 .menu-area {
   width: 100%;
-  /* border: solid 1px green; */
   text-align: center;
   margin-top: 225px;
 }
@@ -250,15 +240,12 @@ background-size: cover;
   display: flex;
   flex-wrap: wrap;
   text-align: center;
-  /* border: solid 1px purple; */
   justify-content: center;
   margin-top: 55px;
 }
 
 .food-box {
-  /* border: solid 1px darkcyan; */
   margin: 35px;
-  /* height: 175px; */
   width: 175px;
   background-color: orange;
 }
